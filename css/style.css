@@ -8,11 +8,10 @@ body {
 }
 
 header {
-    display : flex;
-    flex-wrap : wrap;
     border : 1rem solid rgb(244,244,244);
     border : 5rem;
     background-color : rgb(248,248,250);
+    width:100%;
 }
 
 header img {
@@ -35,6 +34,7 @@ nav {
     border : 1rem solid rgb(244,244,244);;
     border : 5rem;
     background-color : rgb(248,248,250);
+    width:100%;
 }
 
 nav ul {
@@ -50,5 +50,6 @@ main {
     border : 1rem solid rgb(244,244,244);;
     border : 5rem;
     background-color : rgb(248,248,250);
+    width:100%;
 }
 
