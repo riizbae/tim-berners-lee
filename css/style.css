@@ -1,7 +1,7 @@
 body {
     display : flex;
     flex-direction : row;
-    align-content : space-between;
+    justify-content : space-between;
     width : 65vw;
     margin : auto;
     background-color : rgb(235,235,235);
