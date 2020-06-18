@@ -1,8 +1,9 @@
 body {
-    justify-content : space-between;
     width : 65vw;
-    margin : auto;
+    margin-left : auto;
+    margin-right:auto;
     background-color : rgb(235,235,235);
+    padding:1vh;
 }
 
 header {
